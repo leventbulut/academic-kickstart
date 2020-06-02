@@ -44,45 +44,45 @@ subtitle = ""
 
 ## Summer 2020
 
-* ECON 2105 Principles of Macroeconomics (ONLINE)
-* ECON 4800 Current Issues in Economics (ONLINE, SAP Oriented)
+* ECON 2105 **Principles of Macroeconomics (ONLINE)**
+* ECON 4800 **Current Issues in Economics (ONLINE, SAP Oriented)**
 
 ## Valdosta State University (2017-Present)
-* BUSA 3100 Business Analytics, Spring 2020
-* ECON 2105 Principles of Macroeconomics (ONLINE), Summer 2018, Spring 2020
-* ECON 2105 Principles of Macroeconomics, Fall 2017, Fall 2018, Fall 2019
-* ECON 1500 Survey of Economics, Fall 2017, Spring 2018, Fall 2018, Spring 2019, Fall 2019, Spring 2020
-* ECON 1500 Survey of Economics (ONLINE),  Summer 2019
-* ECON 4800 Current Issues in Economics (ONLINE, SAP Oriented), Summer 2019
-* ECON 2106 Principles of Microeconomics, Spring 2018, Spring 2020
-* ECON 3600 International Economics, Spring 2019
-*
+* BUSA 3100 **Business Analytics**, Spring 2020
+* ECON 2105 **Principles of Macroeconomics (ONLINE)**, Summer 2018, Spring 2020
+* ECON 2105 **Principles of Macroeconomics**, Fall 2017, Fall 2018, Fall 2019
+* ECON 1500 **Survey of Economics**, Fall 2017, Spring 2018, Fall 2018, Spring 2019, Fall 2019, Spring 2020
+* ECON 1500 **Survey of Economics (ONLINE)**,  Summer 2019
+* ECON 4800 **Current Issues in Economics (ONLINE, SAP Oriented)**, Summer 2019
+* ECON 2106 **Principles of Microeconomics**, Spring 2018, Spring 2020
+* ECON 3600 **International Economics**, Spring 2019
+
 
 ## Ipek University (2014-2016)
 
-* Money and Banking
-* Principles of Macroeconomics
-* International Financial and Macroeconomic Policy
-* Advanced Macroeconomics-1 (Graduate Level)
-* Open Economy Macroeconomics
+* **Money and Banking**
+* **Principles of Macroeconomics**
+* **International Financial and Macroeconomic Policy**
+* **Advanced Macroeconomics-1 (Graduate Level)**
+* **Open Economy Macroeconomics**
 
 ## University of Georgia (2012-2014)
-* Principles of Macroeconomics (Enrollment: 300 Students, 10 sections)
-* Principles of Macroeconomics (Honor Section)
-* International Trade
+* **Principles of Macroeconomics (Enrollment: 300 Students, 10 sections)**
+* **Principles of Macroeconomics (Honor Section)**
+* **International Trade**
 
 ## Georgia State University (2011-2012)
-* The Global Economy
-* The Economy of Global Finance (Graduate Level)
-* International Monetary Economics (Ph.D. Level)
-* International Finance
+* **The Global Economy**
+* **The Economy of Global Finance (Graduate Level)**
+* **International Monetary Economics (Ph.D. Level)**
+* **International Finance**
 
 ## Emory University (2007-2011)
-* Intermediate Macroeconomics
-* Principles of Macroeconomics
-* Intermediate Microeconomics,  
-* International Trade
-* International Finance
-* Principles of Macroeconomics
+* **Intermediate Macroeconomics**
+* *Principles of Macroeconomics**
+* **Intermediate Microeconomics** 
+* **International Trade**
+* **International Finance**
+* **Principles of Macroeconomics**
 
 
