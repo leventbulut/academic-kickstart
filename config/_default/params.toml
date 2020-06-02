@@ -90,7 +90,7 @@ address = {street = "Harley Langdale, Jr. College of Business Administration", c
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.8470", longitude = "-83.2896"}
+coordinates = {latitude = "30.863683", longitude = "-83.287587"}
 
 # Directions for visitors to locate you.
 directions = "Enter HSBA Building at North Campus and take the elevators to Office 3014 on Floor 3"

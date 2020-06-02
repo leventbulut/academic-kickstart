@@ -79,7 +79,7 @@ subtitle = ""
 
 ## Emory University (2007-2011)
 * **Intermediate Macroeconomics**
-* *Principles of Macroeconomics**
+* **Principles of Macroeconomics**
 * **Intermediate Microeconomics** 
 * **International Trade**
 * **International Finance**
