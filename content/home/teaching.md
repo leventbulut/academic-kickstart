@@ -42,39 +42,21 @@ subtitle = ""
 +++
 
 
-
-
-# Courses for the 2019-2020 Academic Year
-
 ## Summer 2020
 
 * ECON 2105 Principles of Macroeconomics (ONLINE)
 * ECON 4800 Current Issues in Economics (ONLINE, SAP Oriented)
 
-## Spring 2020
-
-* BUSA 3100 Business Analytics
-* ECON 2105 Principles of Macroeconomics (ONLINE)
-* ECON 2106 Principles of Microeconomics 
-* ECON 1500 Survey of Economics
-
-## Fall 2019
-
-* ECON 2105 Principles of Macroeconomics
-* ECON 1500 Survey of Economics
-* Value Learning Coordinator
-
-# Past Courses
-
 ## Valdosta State University (2017-Present)
-
-* ECON 2105 Principles of Macroeconomics (ONLINE), Summer 2018
-* ECON 2105 Principles of Macroeconomics, Fall 2017, Fall 2018
-* ECON 1500 Survey of Economics, Fall 2017, Spring 2018, Fall 2018, Spring 2019
+* BUSA 3100 Business Analytics, Spring 2020
+* ECON 2105 Principles of Macroeconomics (ONLINE), Summer 2018, Spring 2020
+* ECON 2105 Principles of Macroeconomics, Fall 2017, Fall 2018, Fall 2019
+* ECON 1500 Survey of Economics, Fall 2017, Spring 2018, Fall 2018, Spring 2019, Fall 2019, Spring 2020
 * ECON 1500 Survey of Economics (ONLINE),  Summer 2019
 * ECON 4800 Current Issues in Economics (ONLINE, SAP Oriented), Summer 2019
-* ECON 2106 Principles of Microeconomics, Spring 2018
+* ECON 2106 Principles of Microeconomics, Spring 2018, Spring 2020
 * ECON 3600 International Economics, Spring 2019
+*
 
 ## Ipek University (2014-2016)
 
