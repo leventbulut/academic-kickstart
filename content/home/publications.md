@@ -70,3 +70,6 @@ subtitle = ""
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+
+These are the common words I kept using in my publications! I even talk about haven!
+![These are the common words I keep using in my publications! I even talk about haven!](/home/publications_files/wordle.png)
