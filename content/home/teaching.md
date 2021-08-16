@@ -42,20 +42,15 @@ subtitle = ""
 +++
 
 
-## Summer 2020
-
-* ECON 2105 **Principles of Macroeconomics (ONLINE)**
-* ECON 4800 **Current Issues in Economics (ONLINE, SAP Oriented)**
 
 ## Valdosta State University (2017-Present)
-* BUSA 3100 **Business Analytics**, Spring 2020
-* ECON 2105 **Principles of Macroeconomics (ONLINE)**, Summer 2018, Spring 2020
-* ECON 2105 **Principles of Macroeconomics**, Fall 2017, Fall 2018, Fall 2019
-* ECON 1500 **Survey of Economics**, Fall 2017, Spring 2018, Fall 2018, Spring 2019, Fall 2019, Spring 2020
-* ECON 1500 **Survey of Economics (ONLINE)**,  Summer 2019
-* ECON 4800 **Current Issues in Economics (ONLINE, SAP Oriented)**, Summer 2019
-* ECON 2106 **Principles of Microeconomics**, Spring 2018, Spring 2020
-* ECON 3600 **International Economics**, Spring 2019
+*  **Data Visualitions and Analytics (with SAS)**
+*  **Business Analytics**
+*  **Principles of Macroeconomics**
+* **Survey of Economics**
+*  **Current Issues in Economics (with SAP)**
+*  **Principles of Microeconomics**
+*  **International Economics**
 
 
 ## Ipek University (2014-2016)
@@ -83,6 +78,6 @@ subtitle = ""
 * **Intermediate Microeconomics** 
 * **International Trade**
 * **International Finance**
-* **Principles of Macroeconomics**
+* **Principles of Microeconomics**
 
 
