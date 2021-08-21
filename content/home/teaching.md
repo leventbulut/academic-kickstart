@@ -41,43 +41,45 @@ subtitle = ""
 
 +++
 
+## The University of North Texas (2021-Present)
+*  Data Anlaytics-I
+*  Applications & Deployment of Advanced Analytics
 
-
-## Valdosta State University (2017-Present)
-*  **Data Visualitions and Analytics (with SAS)**
-*  **Business Analytics**
-*  **Principles of Macroeconomics**
-* **Survey of Economics**
-*  **Current Issues in Economics (with SAP)**
-*  **Principles of Microeconomics**
-*  **International Economics**
+## Valdosta State University (2017-2021)
+*  Data Visualitions and Analytics (with SAS)
+*  Business Analytics
+*  Principles of Macroeconomics
+*  Survey of Economics
+*  Current Issues in Economics (with SAP)
+*  Principles of Microeconomics
+*  International Economics
 
 
 ## Ipek University (2014-2016)
 
-* **Money and Banking**
-* **Principles of Macroeconomics**
-* **International Financial and Macroeconomic Policy**
-* **Advanced Macroeconomics-1 (Graduate Level)**
-* **Open Economy Macroeconomics**
+* Money and Banking
+* Principles of Macroeconomics
+* International Financial and Macroeconomic Policy
+* Advanced Macroeconomics-1 (Graduate Level)
+* Open Economy Macroeconomics
 
 ## University of Georgia (2012-2014)
-* **Principles of Macroeconomics (Enrollment: 300 Students, 10 sections)**
-* **Principles of Macroeconomics (Honor Section)**
-* **International Trade**
+* Principles of Macroeconomics
+* Principles of Macroeconomics (Honor Section)
+* International Trade
 
 ## Georgia State University (2011-2012)
-* **The Global Economy**
-* **The Economy of Global Finance (Graduate Level)**
-* **International Monetary Economics (Ph.D. Level)**
-* **International Finance**
+* The Global Economy
+* The Economy of Global Finance (Graduate Level)
+* International Monetary Economics (Ph.D. Level)
+* International Finance
 
 ## Emory University (2007-2011)
-* **Intermediate Macroeconomics**
-* **Principles of Macroeconomics**
-* **Intermediate Microeconomics** 
-* **International Trade**
-* **International Finance**
-* **Principles of Microeconomics**
+* Intermediate Macroeconomics
+* Intermediate Microeconomics 
+* International Trade
+* International Finance
+* Principles of Macroeconomics
+* Principles of Microeconomics
 
 
