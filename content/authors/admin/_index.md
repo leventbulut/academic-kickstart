@@ -14,11 +14,11 @@ role: Clinical Assistant Professor of Data Analytics
 
 # Organizations/Affiliations
 organizations:
-- name: The University of North Texas
+- name: University of North Texas
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Economist with 12 years teaching and research experience. Specializes in model selection and forecasting. 
+bio: 
 
 interests:
 - Model Selection
@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Dr. Levent Bulut joined the Advanced Data Analytics Department of University of North Texas faculty in 2021. He holds a Doctor of Philosophy in Economics from the University of Houston, a Master of Science in Analytics from the Georgia Institute of Technology, a Master of Arts in Economics from Marmara University, and a Bachelor of Arts in Economics from Bilkent University. He previously taught at Valdosta State University, Ipek University, the University of Georgia, Georgia State University, and Emory University. 
+Dr. Levent Bulut joined the Advanced Data Analytics Department of University of North Texas in 2021. He holds a Doctor of Philosophy in Economics from University of Houston, a Master of Science in Analytics from Georgia Institute of Technology, a Master of Arts in Economics from Marmara University, and a Bachelor of Arts in Economics from Bilkent University. He previously taught at Valdosta State University, Ipek University, The University of Georgia, Georgia State University, and Emory University. 
