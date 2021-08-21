@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer in Economics and Finance
+role: Clinical Assistant Professor of Data Analytics
 
 # Organizations/Affiliations
 organizations:
-- name: Valdosta State University
+- name: The University of North Texas
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -34,7 +34,7 @@ education:
     year: 2007
   - course: MS in Analytics
     institution: Georgia Institute of Technology
-    year: 2020 (exp.)
+    year: 2020
   - course: MA in Economics
     institution: Marmara University
     year: 2002
@@ -52,7 +52,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:lbulut@valdosta.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/buluteconomics
+  link: https://twitter.com/leventdbulut
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=p2DKoekAAAAJ&hl=en
@@ -66,7 +66,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "lbulut@valdosta.edu"
+email: "levent.bulut@unt.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Dr. Levent Bulut joined the Valdosta State University faculty in 2017. He holds a Doctor of Philosophy in economics from the University of Houston, a Master of Arts in economics from Marmara University, and a Bachelor of Arts in Economics from Bilkent University. He is currently pursuing a Master of Science in business analytics from the Georgia Institute of Technology. He previously taught at Ipek University in Turkey, the University of Georgia, Georgia State University, and Emory University. 
+Dr. Levent Bulut joined the Advanced Data Analytics Department of University of North Texas faculty in 2021. He holds a Doctor of Philosophy in Economics from the University of Houston, a Master of Science in Analytics from the Georgia Institute of Technology, a Master of Arts in Economics from Marmara University, and a Bachelor of Arts in Economics from Bilkent University. He previously taught at Valdosta State University, Ipek University, the University of Georgia, Georgia State University, and Emory University. 
