@@ -23,19 +23,17 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Denton, TX"
   date_start = "2021-08-13"
-  date_end = "1"
-  description = """
-  """
+  date_end = ""
+  description = """"""
 
 [[experience]]
-  title = "Lecturer"
+  title = "Lecturer" 
   company = "Valdosta State University"
   company_url = ""
   location = "Valdosta, GA"
   date_start = "2017-08-01"
   date_end = "2021-07-31"
-  description = """
-  """
+  description = """"""
 
 
 [[experience]]
