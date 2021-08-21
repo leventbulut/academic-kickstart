@@ -42,37 +42,39 @@ subtitle = ""
 +++
 
 ## The University of North Texas (2021-Present)
-*  Data Anlaytics-I
-*  Applications & Deployment of Advanced Analytics
+* Applications & Deployment of Advanced Analytics  (with R)
+* Data Anlaytics-I (with SAS) 
 
 ## Valdosta State University (2017-2021)
-*  Data Visualitions and Analytics (with SAS)
+*  Data Visualisations and Analytics (with SAS)
 *  Business Analytics
-*  Principles of Macroeconomics
-*  Survey of Economics
 *  Current Issues in Economics (with SAP)
-*  Principles of Microeconomics
 *  International Economics
+*  Principles of Macroeconomics
+*  Principles of Microeconomics
+*  Survey of Economics
 
 
 ## Ipek University (2014-2016)
-
+* Advanced Macroeconomics-1 (Graduate Level)
+* International Financial and Macroeconomic Policy
 * Money and Banking
 * Principles of Macroeconomics
-* International Financial and Macroeconomic Policy
-* Advanced Macroeconomics-1 (Graduate Level)
 * Open Economy Macroeconomics
 
 ## University of Georgia (2012-2014)
+* International Trade
 * Principles of Macroeconomics
 * Principles of Macroeconomics (Honor Section)
-* International Trade
+
 
 ## Georgia State University (2011-2012)
-* The Global Economy
-* The Economy of Global Finance (Graduate Level)
-* International Monetary Economics (Ph.D. Level)
 * International Finance
+* International Monetary Economics (Ph.D. Level)
+* The Economy of Global Finance (Graduate Level)
+* The Global Economy
+
+
 
 ## Emory University (2007-2011)
 * Intermediate Macroeconomics
